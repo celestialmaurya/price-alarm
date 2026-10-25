@@ -1,0 +1,28 @@
+# node
+node_modules/
+npm-debug.log*
+.env
+
+# android / gradle
+.gradle/
+android/build/
+android/app/build/
+android/local.properties
+*.jks
+*.keystore
+
+# ide
+.idea/
+*.iml
+.DS_Store
+
+
+# Firebase admin keys
+server/*firebase-adminsdk*.json
+*.pem
+*.key
+
+# Firebase admin keys
+server/*firebase-adminsdk*.json
+*.pem
+*.key
